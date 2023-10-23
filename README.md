@@ -5,7 +5,7 @@ This repo consists of various basic math concepts and algorithms that are useful
 #### Optimization
 - Linear Optimization
 - Convex Optimization
-- Nonlinear Optimization
+- Non-linear Optimization
 
 
 #### Probability Theory
