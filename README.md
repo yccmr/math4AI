@@ -8,5 +8,6 @@ This repo consists of various basic math concepts and algorithms that are useful
 - Non-linear Optimization
 
 
-#### Probability Theory
+#### Statistics
+- Probability Theory
 
