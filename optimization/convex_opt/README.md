@@ -1,5 +1,5 @@
 # Convex Opmitzation
-Concepts and algorithms (implemented in python) in convex optimization
+This directory consists of concepts and algorithms (implemented in python) in convex optimization:
 
 - Convex Sets
 - Convex Functions
