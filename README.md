@@ -9,4 +9,5 @@ This repo consists of various basic math concepts and algorithms that are useful
 
 #### Statistics
 - Probability Theory
+- Stochastic Process
 
