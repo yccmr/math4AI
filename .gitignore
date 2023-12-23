@@ -4,3 +4,11 @@
 # TeX
 main.tex
 images
+
+# If write from local using MacTex
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.gz
